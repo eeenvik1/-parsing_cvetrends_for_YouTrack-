@@ -45,8 +45,3 @@ cd parsing_OpenCVE_for_YouTrack
 ```shell
 python3 main.py
 ```
-
-
-## Example
-Пример работы скрипта main.py
-
